@@ -1,5 +1,7 @@
 # React + Vite
 
+[![Build status](https://ci.appveyor.com/api/projects/status/mjff13ho6oc6ryiw?svg=true)](https://ci.appveyor.com/project/Nikolaytcev/react-hw7-time)
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
